@@ -1,3 +1,7 @@
+This was supposed to be a fork repo from https://github.com/eska014/aseprite-import.git
+but since the repo has some massive bugs and now easily to keep sync and up to date from previous
+folder structure, so i rearrange and reupload again.
+
 Introduction
 ============
 
